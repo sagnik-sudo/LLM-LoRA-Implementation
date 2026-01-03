@@ -1,4 +1,10 @@
 .venv/
 __pycache__/
-lora.model
-streamlit.model
+*.model
+*.out
+logs/
+outputs/
+lora-openllama-13b-quality/
+*.pt
+*.bin
+*.safetensors
